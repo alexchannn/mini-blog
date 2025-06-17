@@ -5,7 +5,7 @@ A clean and elegant static mini blog built using **HTML5** and **CSS3**. Designe
 ---
 
 ## 🌐 **Live Demo**
-https://alexchannn.github.io/mini-blog
+alexchannn.github.io/mini-blog
 
 ---
 
